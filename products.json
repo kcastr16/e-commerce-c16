@@ -1,0 +1,51 @@
+ [
+    {
+        "productName": "2020 Toyota GT86 Premium",
+        "price": "$25,000",
+        "bio": "2.0 4-Cylinder Boxer Engine",
+        "image": "/assets/gt86.jpg"
+    },
+    {
+        "productName": "2020 Honda Civic Type-R",
+        "price": "$37,000",
+        "bio": "2.0 4-Cylinder",
+        "image": "/assets/civicr.jpg"
+    },
+    {
+        "productName": "2024 Toyota GR86",
+        "price": "$32,000",
+        "bio": "2.4 4-Cylinder Boxer Engine",
+        "image": "/assets/gr86.jpg"
+    },
+    {
+        "productName": "2020 BMW 330i",
+        "price": "$32,000",
+        "bio": "2.4 4-Cylinder Boxer Engine",
+        "image": ""
+    },
+    {
+        "productName": "2024 Lexus IS 500",
+        "price": "$25,000",
+        "bio": "2.0 4-Cylinder Boxer Engine",
+        "image": ""
+    },
+    {
+        "productName": "2020 Lexus IS 350",
+        "price": "$37,000",
+        "bio": "2.0 4-Cylinder",
+        "image": ""
+    },
+    {
+        "productName": "2024 Toyota GR Supra",
+        "price": "$32,000",
+        "bio": "2.4 4-Cylinder Boxer Engine",
+        "image": ""
+    },
+    {
+        "productName": "2020 Honda Civic Si",
+        "price": "$32,000",
+        "bio": "2.4 4-Cylinder Boxer Engine",
+        "image": ""
+    }
+
+]
