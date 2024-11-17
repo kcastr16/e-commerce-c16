@@ -1,0 +1,75 @@
+ [
+    {
+        "productName": "2020 Toyota GT86 Premium",
+        "price": "$25,000",
+        "bio": "2.0 4-Cylinder Boxer Engine",
+        "image": "/assets/gt86.jpg"
+    },
+    {
+        "productName": "2020 Honda Civic Type-R",
+        "price": "$37,000",
+        "bio": "2.0 4-Cylinder",
+        "image": "/assets/civicr.jpg"
+    },
+    {
+        "productName": "2024 Toyota GR86",
+        "price": "$32,000",
+        "bio": "2.4 4-Cylinder Boxer Engine",
+        "image": "/assets/gr86.jpg"
+    },
+    {
+        "productName": "2008 Nissan 350Z",
+        "price": "$25,000",
+        "bio": "3.5L V6 Engine",
+        "image": "/assets/350z.jpg"
+    },
+    {
+        "productName": "2024 Lexus IS 500",
+        "price": "$25,000",
+        "bio": "5.0L V8 Engine",
+        "image": "/assets/is500.jpg"
+    },
+    {
+        "productName": "2020 Lexus IS 350",
+        "price": "$37,000",
+        "bio": "3.5L V6 Engine",
+        "image": "/assets/is350.jpg"
+    },
+    {
+        "productName": "2024 Toyota GR Supra",
+        "price": "$35,000",
+        "bio": "3.0L 6-cylinder Engine",
+        "image": "/assets/grsupra.jpg"
+    },
+    {
+        "productName": "1993 Toyota Supra",
+        "price": "$30,000",
+        "bio": "3.0L 2JZ Twin Turbo Engine",
+        "image": "/assets/mk4.jpg"
+    },
+    {
+        "productName": "2020 Honda Civic Si",
+        "price": "$20,000",
+        "bio": "2.4L VTEC 4-Cylinder Engine",
+        "image": "/assets/2020si.jpg"
+    },
+    {
+        "productName": "2015 Honda Civic Si",
+        "price": "$15,000",
+        "bio": "2.4L VTEC 4-Cylinder Engine",
+        "image": "/assets/2015si.jpeg"
+    },
+    {
+        "productName": "2020 Acura NSX",
+        "price": "$157,000",
+        "bio": "3.5L V6 Engine",
+        "image": "/assets/nsx.jpg"
+    },
+    {
+        "productName": "2008 Honda Civic Si (Mugen Edition)",
+        "price": "$35,000",
+        "bio": "2.0 VTEC 4-Cylinder Engine",
+        "image": "/assets/mugen.jpg"
+    }
+
+]
