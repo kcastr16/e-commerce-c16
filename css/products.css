@@ -51,6 +51,10 @@ h3 {
     padding: 20px 60px;
 }
 
+.card:hover {
+    background: rgb(182, 181, 181);
+}
+
 .card-heading {
     color: red;
     margin-bottom: .5rem;
