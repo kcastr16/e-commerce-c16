@@ -23,8 +23,9 @@ body {
 }
 
 .navdiv a:hover {
-    background-color: rgb(252, 206, 66);
+    background-color: rgb(91, 89, 82);
     transition: 0.5s;
+    color: orange;
 }
 
 a {
@@ -63,7 +64,7 @@ a {
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    padding: 15px 0px 15px 0px;
+    padding: 60px 0px 60px 0px;
 }
 
 .footer-link {
@@ -71,6 +72,12 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.active {
+    color: rgb(255, 106, 0);
+    text-decoration: underline;
+    text-decoration-thickness: 6px;
 }
 
 @media only screen and (min-width: 400px) {
